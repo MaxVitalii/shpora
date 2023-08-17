@@ -1,0 +1,22 @@
+{
+  "name": "shpora",
+  "version": "1.0.0",
+  "description": "cheat sheet for an interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxVitalii/shpora.git"
+  },
+  "author": "Vitalii Maksymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxVitalii/shpora/issues"
+  },
+  "homepage": "https://github.com/MaxVitalii/shpora#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
